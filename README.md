@@ -7,3 +7,6 @@ Fork it, branch it, play with it - see how it works back and forth between diffe
 A simple text file like this is all that is needed to see how it functions. 
 
 updated by ej8899 test account to add a line 9.
+
+
+as a collaborator, can ej8899test add this line12 and push the change w/o owner approval?
